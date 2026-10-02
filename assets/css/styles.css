@@ -110,8 +110,8 @@ border-radius: 4px;
 .boton-tarjeta,
 .boton-enviar {
 display: inline-block;
-background-color: pink;
-color: withe;
+background-color: #FFA500;
+color:  #dd6b20;
 padding: 10px 18px;
 text-decoration: none;
 border-radius: 4px;
